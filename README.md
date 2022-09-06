@@ -1,0 +1,1 @@
+# how.to.transfer.photos.from.iphone.to.computer
