@@ -1,6 +1,6 @@
 # how to transfer photos from iphone to computer
 
-[![how to transfer photos from iphone to computer](gett-detail.png)](https://github.com/techwhoop/how.to.transfer.photos.from.iphone.to.computer/)
+[![how to transfer photos from iphone to computer](gett-detail.png)](https://icncomputer.com/how-to-transfer-photos-from-iphone-to-computer/)
 
 To upload photos from iPhone to computer connect your iPhone to your PC and start CopyTrans Photo. All your iPhone photos will start loading immediately. The photos from your iPhone will be shown in the left-hand pane of the program, while all the pictures and folders on your computer will be displayed on the right side.
 
